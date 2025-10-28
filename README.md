@@ -47,4 +47,4 @@
 1. تأكد من وجود **Python** على جهازك.  
 2. نزّل المشروع أو استنسخه:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/oop-store-project.git
+   git clone https://github.com/ahmadihya9860/oop-store-project.git
