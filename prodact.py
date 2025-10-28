@@ -24,9 +24,3 @@ class Product:
             print(f"you are buy the {self.name} by {self.price}")
             # print(f"the quantty is {self.quantitiy - quantity}")
 
-
-# phone = Product("iphone",200,10)
-
-
-# phone.show_info()
-# phone.buy(500,10)
