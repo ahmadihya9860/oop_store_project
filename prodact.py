@@ -14,7 +14,8 @@ class Product:
     def buy(self,amount,quantity):
         
         if quantity > self.quantitiy:
-            print(f"error we have just {self.quantitiy} {self.name}")
+            
+ {self.name}")
         
         elif amount < self.price:
             print(f"error your amount is short the price is {self.price}")
